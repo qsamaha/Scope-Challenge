@@ -1,4 +1,4 @@
-package com.example.quickMaths;
+package com.example.scopeChallenge;
 
 import java.util.Scanner;
 
